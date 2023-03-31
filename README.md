@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Welcome to the team!
-**Team:**
-_Jerry Hu:_ Chief Commander Officer
-_ChatGPT:_ Chief EverythingElse Officer
+
+
+
+Jerry Hu: Chief Commander Officer<br>
+ChatGPT: Chief **EverythingElse** Officer
