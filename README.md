@@ -8,7 +8,7 @@
 >>> jerry.age
 16
 >>> jerry.languages
-['Mandarin', 'English', 'And a little bit of French']
+['English', 'Mandarin', 'And a little bit of French']
 >>> jerry.coding_lang
 ['Python', 'Java', 'C++', 'HTML', 'CSS', 'JavaScript', 'SQL', 'Swift']
 >>> jerry.hobbies
