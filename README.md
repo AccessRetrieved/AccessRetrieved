@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ```
->>> from JerryHu import JerryHu
->>> jerry = JerryHu()
+>>> from me import jerryhu
+>>> jerry = jerryhu()
 >>> jerry.name
 'Jerry Hu'
 >>> jerry.age
