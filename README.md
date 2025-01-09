@@ -6,11 +6,11 @@
 >>> jerry.name
 'Jerry Hu'
 >>> jerry.age
-16
+17
 >>> jerry.languages
 ['English', 'Mandarin', 'And a little bit of French']
 >>> jerry.coding_lang
-['Python', 'Java', 'C++', 'HTML', 'CSS', 'JavaScript', 'SQL', 'Swift']
+['Python', 'Java', 'HTML', 'CSS', 'JavaScript', 'SQL', 'Swift', 'C++']
 >>> jerry.hobbies
-['Coding', 'Violin', 'Badminton', 'Listening to Music']
+['Coding', 'Violin', 'Badminton', 'Music']
 ```
