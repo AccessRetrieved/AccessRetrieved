@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=AccessRetrieved&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-![](https://hit.yhype.me/github/profile?account_id=56012931)
+<img src="https://komarev.com/ghpvc/?username=AccessRetrieved&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="display: none">
 
 ```
 >>> from me import jerryhu
