@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=AccessRetrieved&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="display: none">
+<img src="https://komarev.com/ghpvc/?username=AccessRetrieved&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 
 ```
 >>> from me import jerryhu
