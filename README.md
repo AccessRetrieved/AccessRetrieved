@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://komarev.com/ghpvc/?username=AccessRetrieved&label=Profile%20views&color=0e75b6&style=flat
+
 ```
 >>> from me import jerryhu
 >>> jerry = jerryhu()
