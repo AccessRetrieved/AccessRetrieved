@@ -16,3 +16,17 @@
 >>> jerry.hobbies
 ['Coding', 'Violin', 'Badminton', 'Music']
 ```
+
+<!-- LANGUAGES BREAKDOWN START -->
+```
+[ LANGUAGES BREAKDOWN ]
+
+JavaScript   --> 136,193 lines
+TypeScript   --> 112,289 lines
+JSX          --> 20,576 lines
+PHP          --> 5,248 lines
+Others       --> 15,053 lines
+
+[ TOTAL LINES OF CODE: 289,359 ]
+```
+<!-- LANGUAGES BREAKDOWN END -->
