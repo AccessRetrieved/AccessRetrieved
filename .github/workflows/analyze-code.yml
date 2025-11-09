@@ -14,7 +14,7 @@ jobs:
       HIGHLIGHT_LANGS: "JavaScript,Python,Swift,Java,Objective-C,SQL,TypeScript,XML,SCSS,Sass,YAML,AppleScript,C++"
 
       # IGNORE_LANGS: drop these languages entirely (not shown and not counted)
-      IGNORE_LANGS: "Markdown,SVG,YAML,TOML,CSV,Text,Properties,JSON,CSS,HTML"
+      IGNORE_LANGS: "Markdown,SVG,YAML,TOML,CSV,Text,Properties,JSON"
 
     steps:
       - name: Checkout Code
