@@ -1,9 +1,9 @@
 name: Update Lines of Code in Readme
 
 on:
-  schedule:
-    - cron: "0 0 * * 0" # Runs weekly on Sunday at midnight (UTC)
-  workflow_dispatch: # Allows manual trigger
+  push:
+    branches:
+      - main
 
 jobs:
   count-lines:
