@@ -24,7 +24,7 @@
 JavaScript   --> 272,380 lines
 CSS          --> 234,917 lines
 HTML         --> 75,719 lines
-JSON         --> 46,035 lines
+JSON         --> 46,060 lines
 TypeScript   --> 11,297 lines
 Python       --> 11,016 lines
 Swift        --> 3,875 lines
@@ -32,6 +32,6 @@ SCSS         --> 1,771 lines
 XML          --> 287 lines
 Others       --> 2,015 lines
 
-[ TOTAL LINES OF CODE: 659,312 ]
+[ TOTAL LINES OF CODE: 659,337 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
