@@ -11,10 +11,10 @@ jobs:
     env:
       # Check cloc docs for supported languages and exact names (e.g., "Vuejs Component", "C#")
       # HIGHLIGHT_LANGS: show these languages individually; everything else goes to "Others"
-      HIGHLIGHT_LANGS: "JavaScript,Python,Swift,Java,Objective-C,SQL,TypeScript,XML,HTML,CSS,SCSS,Sass,YAML,JSON,AppleScript,C++"
+      HIGHLIGHT_LANGS: "JavaScript,Python,Swift,Java,Objective-C,SQL,TypeScript,XML,SCSS,Sass,YAML,AppleScript,C++"
 
       # IGNORE_LANGS: drop these languages entirely (not shown and not counted)
-      IGNORE_LANGS: "Markdown,SVG,YAML,TOML,CSV,Text,Properties"
+      IGNORE_LANGS: "Markdown,SVG,YAML,TOML,CSV,Text,Properties,JSON,CSS,HTML"
 
     steps:
       - name: Checkout Code
