@@ -1,37 +1,37 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 10.5565509796143,
-  "n_files"            : 2290,
-  "n_lines"            : 745136,
-  "files_per_second"   : 216.926911490525,
-  "lines_per_second"   : 70585.1751617485,
+  "elapsed_seconds"    : 10.5211279392242,
+  "n_files"            : 2304,
+  "n_lines"            : 751531,
+  "files_per_second"   : 218.987927274448,
+  "lines_per_second"   : 71430.6492936168,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
-  "nFiles": 1200,
-  "blank": 20452,
-  "comment": 38845,
-  "code": 272380},
+  "nFiles": 1201,
+  "blank": 20465,
+  "comment": 38872,
+  "code": 272514},
 "CSS" :{
   "nFiles": 195,
   "blank": 39935,
   "comment": 1505,
   "code": 234917},
 "HTML" :{
-  "nFiles": 354,
-  "blank": 11168,
-  "comment": 2683,
-  "code": 75719},
+  "nFiles": 357,
+  "blank": 11383,
+  "comment": 2709,
+  "code": 79183},
+"Python" :{
+  "nFiles": 85,
+  "blank": 2600,
+  "comment": 1395,
+  "code": 12004},
 "TypeScript" :{
   "nFiles": 366,
   "blank": 1159,
   "comment": 9260,
   "code": 11297},
-"Python" :{
-  "nFiles": 79,
-  "blank": 2407,
-  "comment": 1056,
-  "code": 11016},
 "Swift" :{
   "nFiles": 44,
   "blank": 675,
@@ -47,6 +47,11 @@
   "blank": 34,
   "comment": 44,
   "code": 1758},
+"TeX" :{
+  "nFiles": 4,
+  "blank": 184,
+  "comment": 24,
+  "code": 788},
 "XML" :{
   "nFiles": 13,
   "blank": 12,
@@ -73,7 +78,7 @@
   "comment": 0,
   "code": 0},
 "SUM": {
-  "blank": 75890,
-  "comment": 55969,
-  "code": 613277,
-  "nFiles": 2290} }
+  "blank": 76495,
+  "comment": 56385,
+  "code": 618651,
+  "nFiles": 2304} }
