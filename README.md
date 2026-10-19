@@ -23,6 +23,6 @@ SCSS         --> 1,771 lines
 XML          --> 186 lines
 Others       --> 216,573 lines
 
-[ TOTAL LINES OF CODE: 509,841 ]
+[ TOTAL: 509,841 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
