@@ -15,14 +15,14 @@
 ```
 [ LANGUAGES BREAKDOWN ]
 
-JavaScript   --> 264,241 lines
-Python       --> 11,973 lines
-TypeScript   --> 11,297 lines
-Swift        --> 3,800 lines
+JavaScript   --> 285,742 lines
+Python       --> 22,861 lines
+TypeScript   --> 21,790 lines
+Swift        --> 3,875 lines
 SCSS         --> 1,771 lines
-XML          --> 186 lines
-Others       --> 216,573 lines
+XML          --> 319 lines
+Others       --> 369,505 lines
 
-[ TOTAL: 509,841 ]
+[ TOTAL LINES OF CODE: 705,863 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
