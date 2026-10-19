@@ -8,7 +8,7 @@
 >>> jerry.name
 'Jerry Hu'
 >>> jerry.coding_lang
-['Python', 'Java', 'C', 'SQL', 'C++', 'HTML', 'CSS', 'JavaScript', 'Swift']
+['C', 'C++', 'Python', 'Java', 'SQL', 'HTML', 'CSS', 'JavaScript', 'Swift']
 ```
 
 <!-- LANGUAGES BREAKDOWN START -->
